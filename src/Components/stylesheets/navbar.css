@@ -1,0 +1,75 @@
+#nav{
+    margin: 2%;
+    border-radius: 25rem;
+    position: sticky;
+    top:0;
+    background: #2D336B;
+    padding: 0 0.5% 0.5%;
+}
+#navbar{
+    display: inline;
+}
+#nav-btn{
+    display: inline;
+    background: rgba(251, 211, 75,0);
+    margin-left: 0.6%;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 2% 0.6% 1% 0.6%;
+}
+
+#nav-btn:hover{
+    height: 100%;
+    color: #2D336B;
+    display: inline;
+    background: rgba(251, 211, 75,1);
+    margin-left: 1%;
+    margin-top: 0;
+    padding: 2% 0.6% 1% 0.6%;
+    transition: 1s;
+}
+
+#nav-tit{
+    display: inline;
+    background: rgba(251, 211, 75,0);
+    margin: 0 3% 0 0.6%;
+    padding: 2% 0.6% 1% 0.6%;
+    font-size: 4rem;
+    font-family: cursive;
+    color: rgba(251, 211, 75,1);
+}
+
+span{
+    width:100%;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+}
+#nav-btn-l{
+    font-size: 3rem;
+    font-family: cursive;
+    color: rgba(251, 211, 75,1);
+}
+#nav-btn-l:hover{
+    color: #2D336B;
+    transition: 1s;
+}
+#nav-btn-r{
+    padding-left: 0;
+    margin: 0 12% 0 12%;
+    font-size: 3rem;
+    font-family: cursive;
+    color: rgba(251, 211, 75,0);
+}
+/*Cruise
+#B6ECE0
+
+Bright Sun
+#FBD34B
+
+Rhino
+#2D336B
+
+Storm Gray
+#68698A*/
