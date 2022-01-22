@@ -1,12 +1,10 @@
-#nav{
-    margin: 2%;
-    border-radius: 25rem;
+.stick{
+    background: #2D336B;
     position: sticky;
     top:0;
-    background: #2D336B;
-    padding: 0 0.5% 0.5%;
 }
 #navbar{
+    height: 100%;
     display: inline;
 }
 #nav-btn{
@@ -34,7 +32,7 @@
     background: rgba(251, 211, 75,0);
     margin: 0 3% 0 0.6%;
     padding: 2% 0.6% 1% 0.6%;
-    font-size: 4rem;
+    font-size: 3vw;
     font-family: cursive;
     color: rgba(251, 211, 75,1);
 }
@@ -47,7 +45,7 @@ a{
     text-decoration: none;
 }
 #nav-btn-l{
-    font-size: 3rem;
+    font-size: 2.5vw;
     font-family: cursive;
     color: rgba(251, 211, 75,1);
 }
@@ -57,8 +55,8 @@ a{
 }
 #nav-btn-r{
     padding-left: 0;
-    margin: 0 12% 0 12%;
-    font-size: 3rem;
+    margin: 0 15% 0 15%;
+    font-size: 2.5vw;
     font-family: cursive;
     color: rgba(251, 211, 75,0);
 }
